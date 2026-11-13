@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://artechorus.github.io</loc>
-    <lastmod>2025-11-22</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <priority>1</priority>
   </url>
   <url>
@@ -81,13 +81,48 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://artechorus.github.io/post/20260411-janaram-dream-land-picnic</loc>
+    <lastmod>2026-04-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/20260829-12th-chorus-festival</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/20260905-jawon-recycle-day</loc>
+    <lastmod>2026-09-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/20261017-autumn-naz-festival</loc>
+    <lastmod>2026-10-17</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/20261021-police-day-invitation-perf</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/20261107-living-culture-festa</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://artechorus.github.io/post/vol1-nature-love-and-life</loc>
     <lastmod>2024-05-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://artechorus.github.io/post/vol2-happiness-longing-and-hope</loc>
+    <loc>https://artechorus.github.io/post/vol2-happiness-longing-and-hope-copy</loc>
     <lastmod>2025-11-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/post/vol3-lost-in-music</loc>
+    <lastmod>2026-09-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -116,12 +151,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://artechorus.github.io/tag/event</loc>
+    <lastmod>2026-02-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://artechorus.github.io/tag/festa</loc>
     <lastmod>2026-02-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://artechorus.github.io/tag/festival</loc>
+    <lastmod>2026-02-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/tag/invitation</loc>
     <lastmod>2026-02-11</lastmod>
     <priority>0.8</priority>
   </url>
