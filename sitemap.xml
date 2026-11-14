@@ -116,7 +116,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://artechorus.github.io/post/vol2-happiness-longing-and-hope-copy</loc>
+    <loc>https://artechorus.github.io/post/vol2-happiness-longing-and-hope</loc>
     <lastmod>2025-11-22</lastmod>
     <priority>0.8</priority>
   </url>
@@ -129,6 +129,11 @@
     <loc>https://artechorus.github.io/privacy</loc>
     <lastmod>2026-02-11</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://artechorus.github.io/tag/annual</loc>
+    <lastmod>2026-02-11</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://artechorus.github.io/tag/arte</loc>
